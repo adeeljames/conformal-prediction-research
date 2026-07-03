@@ -1,0 +1,4 @@
+Dataset,OpenML_ID,Samples,Features,Classes,Class_0_count,Class_1_count,Minority_%,Mean_features,Std_features
+Blood Transfusion,1464,748,4,2,570,178,23.8,356.995,374.535
+WDBC Breast Cancer,1510,569,30,2,357,212,37.26,61.891,34.905
+EEG Eye State,1471,14980,14,2,8257,6723,44.88,4316.882,1767.288
