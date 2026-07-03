@@ -9,7 +9,7 @@
 [![Status: Under Review](https://img.shields.io/badge/Status-Under%20Peer%20Review-orange.svg)](https://journal.vu.edu.pk)
 
 > **Author:** Muhammad Adeel ❤️
-> **Affiliation:** Department of BBIT (Bachelor of Business Information Technology), Virtual University of Pakistan, Lahore
+> **Affiliation:** This is an Indepented Research I Study at Department of BBIT (Bachelor of Business Information Technology), Virtual University of Pakistan, Lahore
 > **Email:** ai.adeelv1@gmail.com
 > **LinkedIn:** https://www.linkedin.com/in/muhammadadeelai/
 > **GitHub:** https://github.com/adeeljames
